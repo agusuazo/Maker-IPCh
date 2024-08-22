@@ -16,15 +16,15 @@ Los requisitos de inscripción son los siguientes:
 
 - Ser estudiante de la Pontificia Universidad Católica de Chile. Se aceptarán estudiantes de pre y postgrado, de cualquier carrera.
 - La inscripción será en grupos de hasta 4 personas. Sólo quien lidere el grupo deberá responder el form. 
-- Se permite ser sólo 1 persona.
+- Se permite ser sólo 1 persona, que luego sera unido a un grupo al azar.
 
 ### Etapa 1: Lanzamiento
 
-El día [FECHA POR CONFIRMAR] se realizará el lanzamiento del concurso, de manera presencial en [LUGAR POR CONFIRMAR]. Este consistirá de una presentación de la problemática que durará 10 minutos, seguido de 5 minutos de preguntas.
+El día [FECHA POR CONFIRMAR] se realizará el lanzamiento del concurso, de manera presencial en [LUGAR POR CONFIRMAR]. Este consistirá de una presentación de la problemática que durará 15 minutos, seguido de 5 minutos de preguntas.
 
 Luego, se planteará el desafío específico que se tendrá que abordar en el concurso. Se quedará proyectado el desafío y se dará espacio a que los grupos comiencen a discutir sus ideas.
 
-En un plazo de 50 minutos, cada grupo elaborará una propuesta de solución. Para ello tendrán que investigar factibilidad y elaborar un mock-up que ilustre su idea. Este mock-up podrá ser de cualquier tipo, desde un dibujo hasta un modelo 3D. Lo importante es que refleje claramente cómo solucionaría el problema, sus componentes y los detalles que consideren relevantes de su solución.
+En un plazo de [50] minutos, cada grupo elaborará una propuesta de solución. Para ello tendrán que investigar factibilidad y elaborar un mock-up que ilustre su idea. Este mock-up podrá ser de cualquier tipo, desde un dibujo hasta un modelo 3D. Lo importante es que refleje claramente cómo solucionaría el problema, sus componentes y los detalles que consideren relevantes de su solución.
 
 Al final de esta etapa, cada grupo deberá enviar su mock-up y una breve descripción de la solución. Para esto, se habilitará un correo que será oportunamente comunicado, donde podrán enviar un pdf con la explicación y una foto o el archivo en el que hayan diseñado el mock-up.
 
@@ -46,13 +46,17 @@ El jurado decidirá en base a una rúbrica y su criterio personal qué grupos so
 
 ### Temas
 
-- 
+- Problemas asociadoas a la crecida del rio en la comunidad de Rinconada de Idahue, Coltauco.
+- 1.Gobernanza:  Burocracia y gestión de emergencias.
+
+  1.1 Propuesta integral para la gestión y coordinación de ayudas en la recuperación de la emergencia: Posterior a la respuesta in situ de una emergencia, se debe comenzar la fase de recuperación, rehabilitando y reparando las condiciones básicas de vida. En esta etapa, las zonas afectadas reciben ayuda material en enceres, ropas, muebles, además de la llegada de voluntarios, lo que requiere de una logística de alimentación y alojamiento, entre otras cosas. Para esto, se solicita realizar una propuesta de instrumento que permita planificar y gestionar ayudas, mediante el análisis de posibles albergues comunitarios, puntos de almacenamiento y acopios, logística con voluntariados, entre otros aspectos
 
 ## Colaboración con Organizaciones Públicas
 
 En esta ocasión, se está trabajando con:
 
-- 
+- Centro de Alumnos de Ingeniería (CAI)
+- Dirección de Compromiso Público, Comunidad y Diversidad (DcDi)
 
 
 ## Criterios de Evaluación
