@@ -46,7 +46,7 @@ El jurado decidirá en base a una rúbrica y su criterio personal qué grupos so
 
 ### Temas
 
-- Problemas asociadoas a la crecida del rio en la comunidad de Rinconada de Idahue, Coltauco.
+- Problemas de acceso asociados a la crecida del rio en la comunidad de Rinconada de Idahue, Coltauco.
 - 1.Gobernanza:  Burocracia y gestión de emergencias.
 
   1.1 Propuesta integral para la gestión y coordinación de ayudas en la recuperación de la emergencia: Posterior a la respuesta in situ de una emergencia, se debe comenzar la fase de recuperación, rehabilitando y reparando las condiciones básicas de vida. En esta etapa, las zonas afectadas reciben ayuda material en enceres, ropas, muebles, además de la llegada de voluntarios, lo que requiere de una logística de alimentación y alojamiento, entre otras cosas. Para esto, se solicita realizar una propuesta de instrumento que permita planificar y gestionar ayudas, mediante el análisis de posibles albergues comunitarios, puntos de almacenamiento y acopios, logística con voluntariados, entre otros aspectos
