@@ -1,4 +1,4 @@
-# Bases Makerthon
+# Bases Thinkathon
 
 ![Logo del Concurso](../../assets/logoipch.webp)
 
